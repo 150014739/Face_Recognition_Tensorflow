@@ -14,7 +14,7 @@ import tensorflow as tf
 
 #User cound edit;
 MODE = 0 # 1-Read data from Camera, 0-Read data from AVI file
-VIDEO_FILE = ".\\camera_testing_video.mp4"
+VIDEO_FILE = ".\\avi\\camera_testing_video.mp4"
 FACE_LANDMARK_FILE = ".\\dlib\\shape_predictor_68_face_landmarks.dat"
 DISPLAY_SCALE = 0.5
 FACE_POINT_RADIUS = 2
